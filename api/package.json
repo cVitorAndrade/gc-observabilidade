@@ -1,0 +1,13 @@
+{
+  "name": "pix-observability-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pino": "^9.0.0",
+    "prom-client": "^15.1.2"
+  }
+}
